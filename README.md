@@ -2,4 +2,4 @@
 
 * It's a DOM project. 
 
-Live : 
+Live : https://trusting-goldberg-b9dc46.netlify.app/
